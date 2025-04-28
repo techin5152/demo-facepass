@@ -1,0 +1,19 @@
+
+œ
+java:S1186P"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©íÂÿÿÿÿÿ
+I
+java:S1874".Remove this use of "Camera"; it is deprecated.(ıÎÿ·üÿÿÿÿ
+J
+java:S1874'"/Remove this use of "setType"; it is deprecated.(‹®ëäúÿÿÿÿ
+\
+java:S1874'"ARemove this use of "SURFACE_TYPE_PUSH_BUFFERS"; it is deprecated.(‹®ëäúÿÿÿÿ
+D
+java:S1874*".Remove this use of "Camera"; it is deprecated.(»’Ò›
+I
+java:S18746"3Remove this use of "stopPreview"; it is deprecated.(Ò„Ø–
+>	java:S1087")Either remove or fill this block of code.(”ı¾
+T
+java:S1874;"9Remove this use of "setPreviewDisplay"; it is deprecated.(¹”™­üÿÿÿÿ
+J
+java:S1874<"4Remove this use of "startPreview"; it is deprecated.(ÌœŒß
+Q	java:S125="<This block of commented-out lines of code should be removed.(¹íä°

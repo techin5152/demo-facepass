@@ -1,0 +1,13 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‡ÛŸÚýÿÿÿÿ
+?
+java:S1481")Remove this unused "type" local variable.(ÍÝÔ¼
+V	java:S125"<This block of commented-out lines of code should be removed.(¼û…Ôøÿÿÿÿ
+^
+java:S1874"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(¥­º­ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+h
+java:S3252T"MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(Ä¼“‡ýÿÿÿÿ
+G
+java:S1874T",Remove this use of "DATA"; it is deprecated.(Ä¼“‡ýÿÿÿÿ

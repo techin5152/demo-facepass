@@ -1,0 +1,35 @@
+
+Hkotlin:S1481š"*Remove this unused "image" local variable.(Ãì¤Œøÿÿÿÿ
+Lkotlin:S1481™".Remove this unused "startTime" local variable.(®€à«üÿÿÿÿ
+Tkotlin:S1481¹"6Remove this unused "handleSyncDataBtn" local variable.(û¦•Ğüÿÿÿÿ
+Hkotlin:S1481µ"/Remove this unused "syncDataTv" local variable.(æÅÜ
+@kotlin:S1125ˆ"'Remove the unnecessary Boolean literal.(£î„˜
+>kotlin:S1128"Remove this unused import.(œô”şúÿÿÿÿ8…½Î¼ª0
+ykotlin:S1192Â"[Define a constant instead of duplicating this literal "FacePassHandle is null ! " 11 times.(ÀÖ¦…ûÿÿÿÿ
+vkotlin:S1192ø"XDefine a constant instead of duplicating this literal "group name  is null ï¼" 4 times.(‚²¶…úÿÿÿÿ
+bkotlin:S1192Œ"IDefine a constant instead of duplicating this literal "success " 4 times.(’Á¤œ
+@kotlin:S1874|"#Deprecated code should not be used.(Î×Ôõÿÿÿÿÿ
+Akotlin:S1874Ş"#Deprecated code should not be used.(“ÓÆüÿÿÿÿ
+<kotlin:S1874ˆ"#Deprecated code should not be used.(šø¿°
+<kotlin:S1874ˆ"#Deprecated code should not be used.(šø¿°
+Akotlin:S1874é"#Deprecated code should not be used.(ªÅÛ×ÿÿÿÿÿ
+<kotlin:S1874û"#Deprecated code should not be used.(À—Éù
+<kotlin:S1874ü"#Deprecated code should not be used.(şßÄï
+<kotlin:S1874ı"#Deprecated code should not be used.(¬¢ûì
+<kotlin:S1874‰"#Deprecated code should not be used.(Òû‘æ
+<kotlin:S1874‹"#Deprecated code should not be used.(íç¿²
+<kotlin:S1874Œ"#Deprecated code should not be used.(–ŞÒ“
+<kotlin:S1874	"#Deprecated code should not be used.(Òû‘æ
+<kotlin:S1874’	"#Deprecated code should not be used.(íç¿²
+<kotlin:S1874“	"#Deprecated code should not be used.(–ŞÒ“
+<kotlin:S1874ü"#Deprecated code should not be used.(şßÄï
+kkotlin:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ˆ÷şÂ
+pkotlin:S3776á"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ø¿÷ôüÿÿÿÿ
+kkotlin:S3776õ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(†»¤ˆ
+jkotlin:S3776®"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ö¸€t
+lkotlin:S3776’"SRefactor this method to reduce its Cognitive Complexity from 122 to the 15 allowed.(Ğ®—Œ
+pkotlin:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ñûÌùúÿÿÿÿ
+pkotlin:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ñûÌùúÿÿÿÿ
+kkotlin:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(±¼é
+Lkotlin:S1066¹".Merge this "if" statement with the nested one.(ËÈíøÿÿÿÿ
+Gkotlin:S1066‚".Merge this "if" statement with the nested one.(ŸŞ·»

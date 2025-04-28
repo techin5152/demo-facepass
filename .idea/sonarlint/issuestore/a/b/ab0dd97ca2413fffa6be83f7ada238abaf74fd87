@@ -1,0 +1,27 @@
+
+g
+java:S1192q"QDefine a constant instead of duplicating this literal "Apply update: OK" 3 times.(åãîæ
+K
+java:S1066î"/Merge this if statement with the enclosing one.(£µ¨ùÿÿÿÿ
+K
+java:S1066ï"/Merge this if statement with the enclosing one.(çø”Ñûÿÿÿÿ
+C
+java:S1604n"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+C
+java:S1604u"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604–"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+i
+java:S2095³"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(âŞ£œøÿÿÿÿ
+o	java:S116."URename this field "Permission" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÅÈ­ıÿÿÿÿ
+W
+java:S1075%"ARefactor your code to get this URI from a customizable parameter.(ìÉµ¦
+Q	java:S125#"<This block of commented-out lines of code should be removed.(¿›“£
+\
+java:S1075&"ARefactor your code to get this URI from a customizable parameter.(èÊ¨Òÿÿÿÿÿ
+Z
+java:S1874®"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(Ã…²
+n
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ó»×¶şÿÿÿÿ
